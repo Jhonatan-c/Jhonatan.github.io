@@ -1,0 +1,1 @@
+esta pagina es para ayudarle a una amiga con su nuevo proyecto de emprendimiento, con este proyecto pude practicar mi html y css
